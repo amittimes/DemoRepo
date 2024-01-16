@@ -9,8 +9,15 @@ public class LoginTest {
 	public void loginTest()
 	{
 		
-		System.out.println("Amit Pandey");
+		System.out.println("Amit Pandey ji ki testing");
 		
 	}
+	public void loginTest1()
+	{
+		
+		System.out.println("Amit Pandey ji ki testing");
+		
+	}
+	
 }
 
