@@ -18,6 +18,10 @@ public class LoginTest {
 		System.out.println("Amit Pandey ji ki testing");
 		
 	}
+	public void newbranch()
+	{
+		System.out.println("this is new branch code");
+	}
 	
 }
 
